@@ -2,11 +2,11 @@ import firebase from "firebase/app";
 import "firebase/auth";
 
 export const auth = firebase.initializeApp({
-  apiKey: "AIzaSyC7_TUSRLiRDgLwSRRPR3EoK8J7xjo9_PE",
-  authDomain: "rezamessenger-eeadd.firebaseapp.com",
-  projectId: "rezamessenger-eeadd",
-  storageBucket: "rezamessenger-eeadd.appspot.com",
-  messagingSenderId: "864290357011",
-  appId: "1:864290357011:web:2b8df586605c8f1d8b64e6"
+  apiKey: "AIzaSyBB9_OVjJaULwrvXDGwEihALx24HLbyOUI",
+  authDomain: "rezash-76b39.firebaseapp.com",
+  projectId: "rezash-76b39",
+  storageBucket: "rezash-76b39.appspot.com",
+  messagingSenderId: "114678631161",
+  appId: "1:114678631161:web:3f2ff797ef283e7f83f028"
 }).auth();
  
